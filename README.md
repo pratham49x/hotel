@@ -1,5 +1,6 @@
 # hotel
 
-yAYQu3Uy5riGJZ6N
+Hotel Management System (MERN Stack)
 
-mongodb+srv://itspratham3515:<db_password>@cluster0.k08thkn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+Built a full-stack web application(just the backend is ready as of now) for managing hotel operations. Features include add, edit, rename, and delete room
+functionalities with Postman for API testing and admin control dashboard.
